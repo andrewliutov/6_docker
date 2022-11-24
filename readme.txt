@@ -1,0 +1,1 @@
+docker run -d --rm --name docker_test -p 8000:80 docker_test
